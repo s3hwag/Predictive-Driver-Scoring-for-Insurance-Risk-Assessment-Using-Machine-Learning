@@ -1,0 +1,3222 @@
+{
+    "Rows": [
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "80"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "78"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "38"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "88"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "95"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "87"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "32"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "89"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "61"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:06.535000000"
+                },
+                {
+                    "ScalarValue": "93"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "80"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "25"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "50"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "42"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "78"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "38"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "88"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "95"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "87"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "32"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "89"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "61"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:06.535000000"
+                },
+                {
+                    "ScalarValue": "93"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "1.5"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "2.7"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "1.3"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "2.8"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "1.6"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "1.4"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "2.9"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "3.7"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "2.6"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "3.8"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "2.9"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "3.4"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "1.5"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "2.7"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "1.3"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "2.8"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "1.6"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "1.4"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "2.9"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "3.7"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "2.6"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "3.8"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "2.9"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.acceleration_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "3.4"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "1.5"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "2.7"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "1.3"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "2.8"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "1.6"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "1.4"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "2.9"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "2.4"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "3.7"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "2.6"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "3.8"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "2.9"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "3.4"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "1.5"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "2.7"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "1.3"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "2.8"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "1.6"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "1.4"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "2.9"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "3.7"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "2.6"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "3.8"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.tailgating_distance"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "2.1"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "15"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "27"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "95"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "28"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "61"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "41"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "88"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "37"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "62"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "38"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "59"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "44"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "66"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "72"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "11"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "99"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "61"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:10.839000000"
+                },
+                {
+                    "ScalarValue": "41"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "29"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "37"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "66"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "38"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "29"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1669877431"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.cornering_speed"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:15.840000000"
+                },
+                {
+                    "ScalarValue": "84"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "25"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "50"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "42"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "5"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "38"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "48"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "45"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "37"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "22"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "49"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "11"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.speed_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:06.535000000"
+                },
+                {
+                    "ScalarValue": "33"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "40"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "25"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "50"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "42"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "5"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "38"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "48"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "45"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "37"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "22"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "49"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:05.839000000"
+                },
+                {
+                    "ScalarValue": "11"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1667311542"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.Lane_discipline"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:00.838000000"
+                },
+                {
+                    "ScalarValue": "40"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:25.842000000"
+                },
+                {
+                    "ScalarValue": "2.6"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:20.841000000"
+                },
+                {
+                    "ScalarValue": "2.9"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:20.841000000"
+                },
+                {
+                    "ScalarValue": "0.7"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:20.841000000"
+                },
+                {
+                    "ScalarValue": "2.6"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:20.841000000"
+                },
+                {
+                    "ScalarValue": "1.1"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:20.841000000"
+                },
+                {
+                    "ScalarValue": "2.9"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:20.841000000"
+                },
+                {
+                    "ScalarValue": "0.7"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:20.841000000"
+                },
+                {
+                    "ScalarValue": "2.6"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:20.841000000"
+                },
+                {
+                    "ScalarValue": "2.9"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:25.842000000"
+                },
+                {
+                    "ScalarValue": "1.0"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:25.842000000"
+                },
+                {
+                    "ScalarValue": "2.7"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:25.842000000"
+                },
+                {
+                    "ScalarValue": "2.0"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:25.842000000"
+                },
+                {
+                    "ScalarValue": "2.8"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:25.842000000"
+                },
+                {
+                    "ScalarValue": "2.6"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:20.841000000"
+                },
+                {
+                    "ScalarValue": "2.9"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:20.841000000"
+                },
+                {
+                    "ScalarValue": "0.7"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:20.841000000"
+                },
+                {
+                    "ScalarValue": "2.6"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:20.841000000"
+                },
+                {
+                    "ScalarValue": "2.9"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:25.842000000"
+                },
+                {
+                    "ScalarValue": "1.0"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:25.842000000"
+                },
+                {
+                    "ScalarValue": "2.7"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:25.842000000"
+                },
+                {
+                    "ScalarValue": "2.0"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:25.842000000"
+                },
+                {
+                    "ScalarValue": "2.8"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:25.842000000"
+                },
+                {
+                    "ScalarValue": "2.6"
+                }
+            ]
+        },
+        {
+            "Data": [
+                {
+                    "ScalarValue": "1672443576"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2"
+                },
+                {
+                    "ScalarValue": "fwdemo-ec2-c2801c9f-campaign"
+                },
+                {
+                    "ScalarValue": "Vehicle.OBD.braking_data"
+                },
+                {
+                    "ScalarValue": "2023-12-13 13:35:25.842000000"
+                },
+                {
+                    "ScalarValue": "0.9"
+                }
+            ]
+        }
+    ],
+    "ColumnInfo": [
+        {
+            "Name": "eventId",
+            "Type": {
+                "ScalarType": "VARCHAR"
+            }
+        },
+        {
+            "Name": "vehicleName",
+            "Type": {
+                "ScalarType": "VARCHAR"
+            }
+        },
+        {
+            "Name": "campaignName",
+            "Type": {
+                "ScalarType": "VARCHAR"
+            }
+        },
+        {
+            "Name": "measure_name",
+            "Type": {
+                "ScalarType": "VARCHAR"
+            }
+        },
+        {
+            "Name": "time",
+            "Type": {
+                "ScalarType": "TIMESTAMP"
+            }
+        },
+        {
+            "Name": "measure_value::double",
+            "Type": {
+                "ScalarType": "DOUBLE"
+            }
+        },
+        {
+            "Name": "measure_value::boolean",
+            "Type": {
+                "ScalarType": "BOOLEAN"
+            }
+        }
+    ],
+    "QueryId": "AEBQEANQ6YXT7ZYVP3YUSBOY3RT4BCLEPFIYPQCSTJWSSWC3554J7DV3SGV24JI",
+    "QueryStatus": {
+        "ProgressPercentage": 100.0,
+        "CumulativeBytesScanned": 2361,
+        "CumulativeBytesMetered": 10000000
+    }
+}
